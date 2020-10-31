@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
@@ -16,17 +16,19 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
+sub_heading: Ingénieurie et santé
+textline: |
   Belkirk College of Engineering
-  
+
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: En savoir plus
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
